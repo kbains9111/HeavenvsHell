@@ -6,7 +6,7 @@
 
 #Resources:
 
-<a heref="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame/">Download Pygame Wheel file by clicking me<a/>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame/">Download Pygame Wheel file by clicking me<a/>
 
 <p> Confused on how to install Python 3.6 and Pygame?
 <a href="https://youtu.be/_GikMdhAhv0">Click on me to see how to install Python 3.6 and Pygame</a>
